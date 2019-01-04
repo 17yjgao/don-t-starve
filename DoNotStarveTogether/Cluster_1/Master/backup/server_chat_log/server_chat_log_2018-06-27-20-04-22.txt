@@ -1,0 +1,6 @@
+[00:00:43]: [Join Announcement] 2019ygao
+[00:02:22]: [Join Announcement] 17yjgao
+[00:14:18]: [Leave Announcement] 17yjgao
+[00:19:17]: [Join Announcement] 17yjgao
+[00:27:07]: [Leave Announcement] 2019ygao
+[00:27:08]: [Leave Announcement] 17yjgao

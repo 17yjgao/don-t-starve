@@ -1,0 +1,40 @@
+[00:01:50]: [Join Announcement] Weeb Lord lv. 98
+[00:02:33]: [Join Announcement] 17yjgao
+[00:04:59]: [Join Announcement] homingLi
+[00:09:55]: [Join Announcement] Jim Abraham Williams
+[00:24:49]: [Leave Announcement] 17yjgao
+[00:25:21]: [Join Announcement] 17yjgao
+[00:26:54]: [Death Announcement] Weeb Lord lv. 98 was killed by Guard Pig. She became a spooky ghost!
+[00:28:22]: [Join Announcement] 平手友梨奈
+[00:29:25]: [Resurrect Announcement] Weeb Lord lv. 98 was resurrected by Touch Stone.
+[00:43:18]: [Leave Announcement] 平手友梨奈
+[00:43:57]: [Join Announcement] 平手友梨奈
+[00:46:48]: [Skin Announcement] Jim Abraham Williams mysterybox_ice_4
+[00:52:54]: [Leave Announcement] 平手友梨奈
+[00:55:39]: [Join Announcement] 平手友梨奈
+[00:56:59]: [Death Announcement] 17yjgao was killed by Darkness. They became a spooky ghost!
+[00:57:38]: [Leave Announcement] 平手友梨奈
+[00:58:33]: [Resurrect Announcement] 17yjgao was resurrected by Jim Abraham Williams.
+[01:04:54]: [Leave Announcement] 17yjgao
+[01:04:55]: [Death Announcement] homingLi was killed by Hound. She became a spooky ghost!
+[01:05:04]: [Leave Announcement] homingLi
+[01:05:51]: [Join Announcement] 17yjgao
+[01:06:00]: [Join Announcement] homingLi
+[01:11:56]: [Resurrect Announcement] homingLi was resurrected by Jim Abraham Williams.
+[01:12:59]: [Leave Announcement] homingLi
+[01:13:48]: [Join Announcement] homingLi
+[01:14:03]: [Skin Announcement] Weeb Lord lv. 98 mysterybox_ice_4
+[01:20:18]: [Join Announcement] 平手友梨奈
+[01:22:07]: [Death Announcement] Jim Abraham Williams was killed by Clockwork Knight. He became a spooky ghost!
+[01:22:14]: [Death Announcement] homingLi was killed by Clockwork Rook. She became a spooky ghost!
+[01:24:15]: [Resurrect Announcement] Jim Abraham Williams was resurrected by 17yjgao.
+[01:26:45]: [Leave Announcement] homingLi
+[01:27:29]: [Leave Announcement] 平手友梨奈
+[01:35:52]: [Skin Announcement] 17yjgao mysterybox_ice_4
+[01:43:53]: [Join Announcement] homingLi
+[01:43:59]: [Resurrect Announcement] homingLi was resurrected by Weeb Lord lv. 98.
+[01:58:03]: [Join Announcement] 平手友梨奈
+[02:04:07]: [Leave Announcement] 平手友梨奈
+[02:06:28]: [Skin Announcement] homingLi mysterybox_ice_4
+[02:09:47]: [Leave Announcement] 17yjgao
+[02:10:36]: [Leave Announcement] Weeb Lord lv. 98

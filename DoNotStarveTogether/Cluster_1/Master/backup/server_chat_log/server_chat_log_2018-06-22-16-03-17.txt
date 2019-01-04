@@ -1,0 +1,9 @@
+[00:01:24]: [Join Announcement] 2019ygao
+[00:03:24]: [Join Announcement] 17yjgao
+[00:19:55]: [Leave Announcement] 17yjgao
+[00:23:27]: [Join Announcement] 17yjgao
+[00:24:54]: [Leave Announcement] 17yjgao
+[00:26:44]: [Join Announcement] 17yjgao
+[00:28:40]: [Skin Announcement] 17yjgao hand_beltedgloves_brown_beaver
+[00:37:26]: [Leave Announcement] 2019ygao
+[00:37:27]: [Leave Announcement] 17yjgao

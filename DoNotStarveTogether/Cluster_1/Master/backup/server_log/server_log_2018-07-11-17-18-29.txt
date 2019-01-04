@@ -1,0 +1,531 @@
+[00:00:01]: 
+System Memory:
+	Memory Load: 58%
+	Available Physical Memory: 3350m/8081m
+	Available Page File: 4099m/11848m
+	Available Virtual Memory: 3972m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:01]: 
+Process Memory:
+	Peak Working Set Size: 29m
+	Working Set Size: 29m
+	Quota Peak Page Pool Usage: 242k
+	Quota Page Pool Usage: 229k
+	Quota Peak Non Paged Pool Usage:16k
+	Quota Non Paged Pool Usage: 15k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:01]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:01]: Starting Up
+[00:00:01]: Version: 276940
+[00:00:01]: Current time: Wed Jul 11 17:10:43 2018
+
+[00:00:01]: Don't Starve Together: 276940 WIN32
+[00:00:01]: Build Date: 3368
+[00:00:01]: Parsing command line
+[00:00:01]: Command Line Arguments: -monitor_parent_process 6644 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -fo -ownernetid 76561198065364237 -backup_log_count 10 -shard Master -sigprefix DST_Master 
+[00:00:01]: Initializing distribution platform
+[00:00:01]: Initializing Minidump handler
+[00:00:01]: ....Done
+[00:00:01]: ....Done
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (18308)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: Mounting file system databundles/klump.zip successful.
+[00:00:01]: Mounting file system databundles/shaders.zip successful.
+[00:00:01]: Mounting file system databundles/fonts.zip successful.
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:01]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: ProfileIndex:4.26
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application D:\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (16164)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:01]: Offline user ID: OU_76561198065364237
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 家庭中文版
+    version                   10.0.17134
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2592
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      NVIDIA GeForce GTX 960M
+    driverDate                20180601000000.000000-000
+    megsOfRam                 2048
+    refreshRate               0
+    videoModeDescription      
+    driverVersion             24.21.13.9811
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: DownloadMods(0)
+[00:00:01]: modoverrides.lua enabling workshop-458940297	
+[00:00:01]: modoverrides.lua enabling workshop-378160973	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458940297	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-458940297_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: Loading mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client)) Version:2.5	
+[00:00:01]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modmain.lua	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458940297	
+[00:00:02]: LOADING LUA SUCCESS
+[00:00:02]: Registering mod namespace "foodvalues - itemtooltips"
+[00:00:02]: Registering mod namespace "workshop-378160973"
+[00:00:02]: PlayerDeaths could not load morgue	
+[00:00:02]: PlayerHistory could not load player_history	
+[00:00:02]: bloom_enabled	false	
+[00:00:02]: loaded saveindex	
+[00:00:02]: OnFilesLoaded()	
+[00:00:02]: OnUpdatePurchaseStateComplete	
+[00:00:02]: Klump load on boot started.	
+[00:00:02]: Klump files loaded: 	0	
+[00:00:04]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Registering prefabs	
+[00:00:04]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:04]: 	Load FE	
+[00:00:05]: 	Load FE: done	
+[00:00:05]: THREAD - started 'FilesExistAsyncThread' (3212)
+[00:00:05]: FilesExistAsyncThread started (16454 files)...
+[00:00:05]: ModIndex: Load sequence finished successfully.	
+[00:00:05]: Reset() returning
+[00:00:05]: [IPC] Signal 'DST_Master_Kill' opened  #000004C0
+[00:00:05]: [IPC] Registering handler for signal #000004C0
+[00:00:05]: [IPC] Handle #000004C0 added to the Eventhandles
+[00:00:05]: [IPC] Signal 'DST_Master_Starting' opened  #000004D8
+[00:00:05]: [IPC] Sending signal... #000004D8
+[00:00:06]: ... FilesExistAsyncThread complete
+[00:00:07]: [200] Account Communication Success (6)
+[00:00:07]: Received (KU_8bW9kpan) from TokenPurpose
+[00:00:07]: Starting Dedicated Server Game	
+[00:00:07]: Network tick rate: U=15(2), D=0
+[00:00:07]: About to start a server with the following settings:
+[00:00:07]:   Dedicated: true
+[00:00:07]:   Online: true
+[00:00:07]:   Passworded: false
+[00:00:07]:   ServerPort: 10999
+[00:00:07]:   SteamAuthPort: 8766
+[00:00:07]:   SteamMasterServerPort: 27016
+[00:00:07]:   ClanID: false
+[00:00:07]:   ClanOnly: false
+[00:00:07]:   ClanAdmin: false
+[00:00:07]:   LanOnly: false
+[00:00:07]:   FriendsOnly: true
+[00:00:07]:   EnableAutosaver: true
+[00:00:07]:   EncodeUserPath: true
+[00:00:07]:   PVP: false
+[00:00:07]:   MaxPlayers: 6
+[00:00:07]:   GameMode: survival
+[00:00:07]:   OverridenDNS: 
+[00:00:07]:   PauseWhenEmpty: true
+[00:00:07]:   IdleTimeout: 1800s
+[00:00:07]:   VoteEnabled: false
+[00:00:07]:   InternetBroadcasting: true
+[00:00:07]:   Intent: cooperative
+[00:00:07]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-458940297	
+[00:00:07]: Online Server Started on port: 10999
+[00:00:07]: Collecting garbage...
+[00:00:07]: lua_gc took 0.04 seconds
+[00:00:07]: ~ShardLuaProxy()
+[00:00:07]: ~cEventLeaderboardProxy()
+[00:00:07]: ~ItemServerLuaProxy()
+[00:00:07]: ~InventoryLuaProxy()
+[00:00:07]: ~NetworkLuaProxy()
+[00:00:07]: ~SimLuaProxy()
+[00:00:07]: lua_close took 0.05 seconds
+[00:00:07]: ReleaseAll
+[00:00:07]: ReleaseAll Finished
+[00:00:07]: cGame::StartPlaying
+[00:00:07]: LOADING LUA
+[00:00:07]: DoLuaFile scripts/main.lua
+[00:00:07]: DoLuaFile loading buffer scripts/main.lua
+[00:00:07]:   taskgrouplist:	default	Together	
+[00:00:07]:   taskgrouplist:	classic	Classic	
+[00:00:07]:   taskgrouplist:	cave_default	Underground	
+[00:00:07]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:07]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:07]: running main.lua
+	
+[00:00:07]: unloading prefabs for mod MOD_workshop-458940297	
+[00:00:07]: unloading prefabs for mod MOD_workshop-378160973	
+[00:00:07]: loaded modindex	
+[00:00:07]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:07]: modoverrides.lua enabling workshop-458940297	
+[00:00:07]: modoverrides.lua enabling workshop-378160973	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458940297	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:07]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:07]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:07]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:07]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:07]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:07]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:07]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:07]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-458940297	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:07]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:07]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:07]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:07]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:07]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:07]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:07]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:07]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:07]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:07]: Loading mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client)) Version:2.5	
+[00:00:07]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modmain.lua	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458940297	
+[00:00:08]: LOADING LUA SUCCESS
+[00:00:08]: Registering mod namespace "foodvalues - itemtooltips"
+[00:00:08]: Registering mod namespace "workshop-378160973"
+[00:00:08]: PlayerDeaths could not load morgue	
+[00:00:08]: PlayerHistory could not load player_history	
+[00:00:08]: bloom_enabled	false	
+[00:00:08]: loaded saveindex	
+[00:00:08]: OnFilesLoaded()	
+[00:00:08]: OnUpdatePurchaseStateComplete	
+[00:00:08]: Loading world: session/606D67350166CE6C/0000000015	
+[00:00:08]: Save file is at version 4.77	
+[00:00:08]: Klump load on boot started.	
+[00:00:08]: Klump files loaded: 	0	
+[00:00:08]: 	Unload FE	
+[00:00:08]: 	Unload FE done	
+[00:00:09]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Registering prefabs	
+[00:00:09]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Registering default mod prefab	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:09]: 	LOAD BE	
+[00:00:13]: 	LOAD BE: done	
+[00:00:13]: Begin Session: 606D67350166CE6C
+[00:00:13]: saving to server_temp/server_save	
+[00:00:13]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:13]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:14]: Loading 12 new character(s)	
+[00:00:14]: Total 12 character(s) loaded	
+[00:00:15]: Loading Nav Grid	
+[00:00:15]: setting 	summerlength	15	
+[00:00:15]: setting 	isnightmaredawn	false	
+[00:00:15]: setting 	elapseddaysinseason	13	
+[00:00:15]: setting 	isfullmoon	false	
+[00:00:15]: setting 	moisture	1971.0885009766	
+[00:00:15]: setting 	springlength	20	
+[00:00:15]: setting 	isnightmarewild	false	
+[00:00:15]: setting 	moonphase	threequarter	
+[00:00:15]: setting 	precipitationrate	0	
+[00:00:15]: setting 	iswet	false	
+[00:00:15]: setting 	isnewmoon	false	
+[00:00:15]: setting 	iswinter	false	
+[00:00:15]: setting 	israining	false	
+[00:00:15]: setting 	isnightmarewarn	false	
+[00:00:15]: setting 	precipitation	none	
+[00:00:15]: setting 	cavephase	day	
+[00:00:15]: setting 	moistureceil	4888.7431640625	
+[00:00:15]: setting 	isday	true	
+[00:00:15]: setting 	iscaveday	true	
+[00:00:15]: setting 	season	autumn	
+[00:00:15]: setting 	timeinphase	0.0046931675502232	
+[00:00:15]: setting 	temperature	14.066710504258	
+[00:00:15]: setting 	isnightmarecalm	false	
+[00:00:15]: setting 	isnight	false	
+[00:00:15]: setting 	isdusk	false	
+[00:00:15]: setting 	iscavedusk	false	
+[00:00:15]: setting 	isautumn	true	
+[00:00:15]: setting 	issnowing	false	
+[00:00:15]: setting 	iswaxingmoon	false	
+[00:00:15]: setting 	pop	0.36408686390051	
+[00:00:15]: setting 	snowlevel	0	
+[00:00:15]: setting 	issnowcovered	false	
+[00:00:15]: setting 	autumnlength	20	
+[00:00:15]: setting 	phase	day	
+[00:00:15]: setting 	nightmaretime	0	
+[00:00:15]: setting 	winterlength	15	
+[00:00:15]: setting 	isspring	false	
+[00:00:15]: setting 	nightmarephase	none	
+[00:00:15]: setting 	remainingdaysinseason	7	
+[00:00:15]: setting 	cycles	13	
+[00:00:15]: setting 	iscavenight	false	
+[00:00:15]: setting 	nightmaretimeinphase	0	
+[00:00:15]: setting 	wetness	0	
+[00:00:15]: setting 	time	0.0020532608032226	
+[00:00:15]: setting 	issummer	false	
+[00:00:21]: Reconstructing topology	
+[00:00:21]: 	...Sorting points	
+[00:00:21]: 	...Sorting edges	
+[00:00:21]: 	...Connecting nodes	
+[00:00:21]: 	...Validating connections	
+[00:00:21]: 	...Housekeeping	
+[00:00:21]: 	...Done!	
+[00:00:21]: Restoring user: session/606D67350166CE6C/A7H2B04RME9H/0000000015	
+[00:00:21]: Serializing user: session/606D67350166CE6C/A7H2B04RME9H/0000000016
+[00:00:21]: 1 uploads added to server. From server_temp
+[00:00:21]: About to start a shard with these settings:
+[00:00:21]:   ShardName: [SHDMASTER]
+[00:00:21]:   ShardID: 1
+[00:00:21]:   ShardRole: MASTER
+[00:00:21]:   MasterHost: (null)
+[00:00:21]:   MasterBind: 127.0.0.1
+[00:00:21]:   MasterPort: 10888
+[00:00:21]: [Shard] Starting master server
+[00:00:21]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:21]: [Shard] Shard server started on port: 10888
+[00:00:21]: [IPC] Signal 'DST_Master_Ready' opened  #00000584
+[00:00:21]: [IPC] Sending signal... #00000584
+[00:00:21]: Telling Client our new session identifier: 606D67350166CE6C
+[00:00:21]: ModIndex: Load sequence finished successfully.	
+[00:00:22]: Reset() returning
+[00:00:22]: [Steam] SteamGameServer_Init(8766, 10999, 27016)
+[00:00:22]: [Steam] SteamGameServer_Init success
+[00:00:22]: Validating portal[7] <-> 845191336[7] (inactive)	
+[00:00:22]: Validating portal[8] <-> 845191336[8] (inactive)	
+[00:00:22]: Validating portal[9] <-> 845191336[9] (inactive)	
+[00:00:22]: Validating portal[1] <-> 845191336[1] (inactive)	
+[00:00:22]: Validating portal[2] <-> 845191336[2] (inactive)	
+[00:00:22]: Validating portal[4] <-> 845191336[4] (inactive)	
+[00:00:22]: Validating portal[3] <-> 845191336[3] (inactive)	
+[00:00:22]: Validating portal[5] <-> 845191336[5] (inactive)	
+[00:00:22]: Validating portal[10] <-> 845191336[10] (inactive)	
+[00:00:22]: Validating portal[6] <-> 845191336[6] (inactive)	
+[00:00:22]: Sim paused
+[00:00:24]: Gameserver logged on to Steam, assigned SteamID [A:1:1974543362:10239]
+[00:00:24]: [Shard] Slave Caves(845191336) connected: [LAN] 127.0.0.1
+[00:00:26]: [Shard] Slave Caves(845191336) ready!
+[00:00:26]: World 845191336 is now connected	
+[00:00:26]: Validating portal[7] <-> 845191336[7] (disabled)	
+[00:00:26]: Validating portal[8] <-> 845191336[8] (disabled)	
+[00:00:26]: Validating portal[9] <-> 845191336[9] (disabled)	
+[00:00:26]: Validating portal[1] <-> 845191336[1] (disabled)	
+[00:00:26]: Validating portal[2] <-> 845191336[2] (disabled)	
+[00:00:26]: Validating portal[4] <-> 845191336[4] (disabled)	
+[00:00:26]: Validating portal[3] <-> 845191336[3] (disabled)	
+[00:00:26]: Validating portal[5] <-> 845191336[5] (disabled)	
+[00:00:26]: Validating portal[10] <-> 845191336[10] (disabled)	
+[00:00:26]: Validating portal[6] <-> 845191336[6] (disabled)	
+[00:00:26]: [Shard] Slave 'Caves(845191336)' restarting...
+[00:00:26]: World 845191336 is now disconnected	
+[00:00:26]: Validating portal[7] <-> 845191336[7] (inactive)	
+[00:00:26]: Validating portal[8] <-> 845191336[8] (inactive)	
+[00:00:26]: Validating portal[9] <-> 845191336[9] (inactive)	
+[00:00:26]: Validating portal[1] <-> 845191336[1] (inactive)	
+[00:00:26]: Validating portal[2] <-> 845191336[2] (inactive)	
+[00:00:26]: Validating portal[4] <-> 845191336[4] (inactive)	
+[00:00:26]: Validating portal[3] <-> 845191336[3] (inactive)	
+[00:00:26]: Validating portal[5] <-> 845191336[5] (inactive)	
+[00:00:26]: Validating portal[10] <-> 845191336[10] (inactive)	
+[00:00:26]: Validating portal[6] <-> 845191336[6] (inactive)	
+[00:00:37]: [Shard] Slave Caves(845191336) ready!
+[00:00:37]: World 845191336 is now connected	
+[00:00:37]: Validating portal[7] <-> 845191336[7] (disabled)	
+[00:00:37]: Validating portal[8] <-> 845191336[8] (disabled)	
+[00:00:37]: Validating portal[9] <-> 845191336[9] (disabled)	
+[00:00:37]: Validating portal[1] <-> 845191336[1] (disabled)	
+[00:00:37]: Validating portal[2] <-> 845191336[2] (disabled)	
+[00:00:37]: Validating portal[4] <-> 845191336[4] (disabled)	
+[00:00:37]: Validating portal[3] <-> 845191336[3] (disabled)	
+[00:00:37]: Validating portal[5] <-> 845191336[5] (disabled)	
+[00:00:37]: Validating portal[10] <-> 845191336[10] (disabled)	
+[00:00:37]: Validating portal[6] <-> 845191336[6] (disabled)	
+[00:00:40]: New incoming connection 127.0.0.1|59288 <5946543171366131472>
+[00:00:40]: Client connected from [LAN] 127.0.0.1|59288 <5946543171366131472>
+[00:00:40]: ValidateGameSessionToken pgs-sing^KU_8bW9kpan^DontStarveTogether^eHXQw39wtXyzGKVx6cJ2zI51bADqwnOD+Z9TAieg9Y4= for <5946543171366131472>
+[00:00:41]: Client authenticated: (KU_8bW9kpan) 2019ygao
+[00:00:41]: [Steam] Authenticated host '76561198065364237'
+[00:00:43]: [Shard] Read save location file for (KU_8bW9kpan)
+[00:00:51]: Resuming user: session/606D67350166CE6C/A7H2B04RME9H/0000000016
+[00:00:51]: Spawning player at: [Load] (-53.24, 0.00, -293.26)	
+[00:00:51]: Sim unpaused
+[00:01:43]: [P2P] Session request for '76561198065356107'
+[00:01:47]: [P2P] Create session: 45.74.8.148|1 '76561198065356107'
+[00:01:47]: [P2P] Received from 45.74.8.148|1 '76561198065356107'
+[00:01:47]: [P2P] Sent to 45.74.8.148|1 '76561198065356107'
+[00:01:47]: New incoming connection 45.74.8.148|1 <6354715903626726677>
+[00:01:47]: Client connected from 45.74.8.148|1 <6354715903626726677>
+[00:01:47]: ValidateGameSessionToken pgs-sing^KU_QyKzdooC^DontStarveTogether^O54IRuAJtCn8kQPqnmoAql+2q2fw8GobXNWlr3Xe5Cs= for <6354715903626726677>
+[00:01:48]: Client authenticated: (KU_QyKzdooC) 17yjgao
+[00:01:48]: [Steam] SendUserConnectAndAuthenticate for '76561198065356107'
+[00:01:49]: [Steam] Authenticated client '76561198065356107'
+[00:01:52]: [Shard] Read save location file for (KU_QyKzdooC)
+[00:01:58]: Resuming user: session/606D67350166CE6C/A7JBOKUPUB4C/0000000015
+[00:01:58]: Spawning player at: [Load] (-51.49, 0.00, -293.50)	
+[00:04:54]: Could not find anim [death] in bank [ghost]
+[00:04:54]: Serializing user: session/606D67350166CE6C/A7H2B04RME9H/0000000016
+[00:05:02]: [Steam] SendUserDisconnect for '76561198065364237'
+[00:05:02]: [Shard] (KU_8bW9kpan) disconnected from [SHDMASTER](1)
+[00:05:02]: [IPC] Received shutdown signal.
+[00:05:03]: Serializing user: session/606D67350166CE6C/A7H2B04RME9H/0000000016
+[00:05:03]: Serializing user: session/606D67350166CE6C/A7JBOKUPUB4C/0000000016
+[00:05:03]: Serializing world: session/606D67350166CE6C/0000000016
+[00:05:03]: unloading prefabs for mod MOD_workshop-458940297	
+[00:05:03]: unloading prefabs for mod MOD_workshop-378160973	
+[00:05:03]: [Shard] Stopping shard mode
+[00:05:04]: Collecting garbage...
+[00:05:04]: lua_gc took 0.15 seconds
+[00:05:04]: ~ShardLuaProxy()
+[00:05:04]: ~cEventLeaderboardProxy()
+[00:05:04]: ~ItemServerLuaProxy()
+[00:05:04]: ~InventoryLuaProxy()
+[00:05:04]: ~NetworkLuaProxy()
+[00:05:04]: ~SimLuaProxy()
+[00:05:04]: lua_close took 0.25 seconds
+[00:05:04]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:05:04]: shaders/ui_yuv.ksh - 1
+[00:05:04]: CurlRequestManager::ClientThread::Main() complete
+[00:05:04]: HttpClient2 discarded 1 callbacks.
+[00:05:04]: Shutting down
